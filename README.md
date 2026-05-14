@@ -5,6 +5,9 @@
 [V1.240306 - Maverick Storm 2 Profile M](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILEM/blob/6b275290915e174eab71dc50e73aff3cf809ada2/firmware/V1.240306.zip)
 - Fixed software uploading bug
 
+[V1.240306 - Maverick Storm 2 Profile M](https://github.com/Chauvet-Pro/MAVERICKSTORM2PROFILEM/blob/97618cd93289ba3a511c6fcb26c16d4bac7c5b15/firmware/V1.240709.zip)
+- Added sunshield on/off to control channel. 76-80 on(NOT in light path), 81-84 off(in light path). Default on. When the sunshield is in the light path, dimmer will be off, zoom and focus are uncontrollable. Power cycle will keep the same settings before power off. 
+
 &nbsp; 
 
 ## USB Software Update Instructions
